@@ -7,10 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	test2.jsp
+	
     update! 07 08
     On the GitHub
-    yes 패치패치!! 
+    yes 
+    <head> </head>
+    
+<!--     ======= -->
+    
     
 
 </body>
