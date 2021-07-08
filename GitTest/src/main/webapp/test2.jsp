@@ -10,7 +10,7 @@
 
     update! 07 08
     On the GitHub
-    yes 패치패치!! 
+    yes 패치패치!!  지금 깃허브에서도 수정 중! 
     
 
 </body>
