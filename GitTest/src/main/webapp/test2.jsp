@@ -11,12 +11,6 @@
 	
     update! 07 08
     On the GitHub
-    yes 
-    <head> </head>
-    
-<!--     ======= -->
-    
-    
 
 </body>
 </html>
